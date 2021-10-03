@@ -1,0 +1,28 @@
+{
+  "name": "ndldown",
+  "version": "1.0.0",
+  "description": "Download a book from ndl ",
+  "main": "ndldown.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ambiesoft/ndldown.git"
+  },
+  "keywords": [
+    "book",
+    "ndl",
+    "download"
+  ],
+  "author": "ambiesoft",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ambiesoft/ndldown/issues"
+  },
+  "homepage": "https://github.com/ambiesoft/ndldown#readme",
+  "dependencies": {
+    "command-line-args": "^5.2.0",
+    "puppeteer": "^10.4.0"
+  }
+}
